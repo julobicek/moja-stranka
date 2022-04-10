@@ -14,4 +14,4 @@ Konečne som sa odhodlal spraviť si webovú stránku. Keďže nemám veľa čas
 - máj 2022 - výber fotiek 
 
 ## Ostatné
-Tu si len niečo odložím na neskôr {HQ-C0mm1tH1st0ry}
+Janka mi má dodať fotky na stránku
