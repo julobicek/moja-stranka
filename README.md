@@ -11,7 +11,9 @@ Konečne som sa odhodlal spraviť si webovú stránku. Keďže nemám veľa čas
 
 ## Termíny
 - apríl 2022 - základná kostra
-- máj 2022 - výber fotiek 
+- máj 2022 - výber fotiek
+- jún 2022 - dokončenie stránky
 
 ## Ostatné
-Janka mi má dodať fotky na stránku
+Doplniť na github projekty - portfólio
+Doplniť do profilu na Instagrame stránku
