@@ -15,5 +15,5 @@ Konečne som sa odhodlal spraviť si webovú stránku. Keďže nemám veľa čas
 - jún 2022 - dokončenie stránky
 
 ## Ostatné
-Doplniť na github projekty - portfólio
-Doplniť do profilu na Instagrame stránku
+- Doplniť na github projekty - portfólio
+- Doplniť do profilu na Instagrame stránku
